@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FanRicky
 - 👀 I’m interested in CV and Math
-- 🌱 I’m currently learning deepfake in CV
+- 🌱 I’m currently learning LLM and STF
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...left a list to me
 - 😄 Pronouns: ...
